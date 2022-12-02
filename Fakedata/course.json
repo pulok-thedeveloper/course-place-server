@@ -2,6 +2,7 @@
     {
       "id": "1",
       "title": "Complete WordPress Course 2022",
+      "shortTitle": "WordPress 2022",
       "img": "https://miro.medium.com/max/750/0*bnPxrgDVqXcWILUW.jpg",
       "lessons": "55",
       "duration": "07h 30m",
@@ -16,6 +17,7 @@
     {
       "id": "2",
       "title": "The Complete JavaScript Course 2019",
+      "shortTitle": "Complete Javascript",
       "img": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png",
       "lessons": "75",
       "duration": "08h 45m",
@@ -30,6 +32,7 @@
     {
       "id": "3",
       "title": "Ultimate Photoshop Training: From Beginner",
+      "shortTitle": "Ultimate Photoshop",
       "img": "https://www.coursesforfree.net/wp-content/uploads/2019/03/1319526_2f62_5.jpg",
       "lessons": "35",
       "duration": "03h 45m",
@@ -44,6 +47,7 @@
     {
       "id": "4",
       "title": "User Experience Design Course 2022",
+      "shortTitle": "UI/UX Design 2022",
       "img": "https://www.creative-tim.com/blog/content/images/size/w960/2022/07/UX-design-courses.jpg",
       "lessons": "55",
       "duration": "03h 45m",
@@ -58,6 +62,7 @@
     {
       "id": "5",
       "title": "Complete Blender: Learn 3D Modelling",
+      "shortTitle": "Blender 3D Modelling",
       "img": "https://miro.medium.com/max/750/1*4bH0m7Mse2NdnZE4FGI4_Q.jpeg",
       "lessons": "55",
       "duration": "03h 45m",
@@ -72,6 +77,7 @@
     {
       "id": "6",
       "title": "Complete Python Bootcamp From Zero To Hero In Python (2023 Edition)",
+      "shortTitle": "Complete Python",
       "img": "https://elearneresources.com/wp-content/uploads/2021/10/Python.jpg",
       "lessons": "55",
       "duration": "03h 45m",
@@ -86,6 +92,7 @@
     {
       "id": "7",
       "title": "The Ultimate Drawing Course Beginner To Advanced (Learn Figma)",
+      "shortTitle": "Ultimate Drawing",
       "img": "https://learnux.io/uploads/vectors/figma-course-0.jpg",
       "lessons": "55",
       "duration": "03h 45m",
@@ -100,6 +107,7 @@
     {
       "id": "8",
       "title": "Learn Photography [Full Course] by Australian Geographic Photographer",
+      "shortTitle": "Photography Full Course",
       "img": "https://i.insider.com/5e8c8c7e92e8ba3bb357ed87?width=1200&format=jpeg",
       "lessons": "55",
       "duration": "03h 45m",
