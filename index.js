@@ -11,6 +11,10 @@ app.get('/', (req, res)=>{
     res.send('Course API Running')
 });
 
+app.get('/courses',(req, res)=>{
+    res.send(courses)
+})
+
 
 
 app.listen(port, ()=> console.log('Course Plcae Server running on port', port));
